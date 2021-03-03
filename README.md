@@ -1,6 +1,6 @@
 # Discord Crypto bots
 
-Showing price on our [Czech Bitcoin Discord channel](www.discord.gg/HWG9Erm) we wanted to show some prices of our favourite crypto coins.
+Showing price on our [Czech Bitcoin Discord channel](https://www.discord.gg/HWG9Erm) we wanted to show some prices of our favourite crypto coins.
 
 So here is the list with invite links to them. I might opensource them later, I just need to make my "Python" better :)
 
