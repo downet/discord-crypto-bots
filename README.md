@@ -31,5 +31,9 @@ Bot shows dominance of BTC towards all other coins.
 ## Mempool stats
 Bot is showing mempool fees (in format Fastest, Medium, Slowest). [Invite link](https://discord.com/api/oauth2/authorize?client_id=778369096294858752&permissions=0&scope=bot)
 
+## Moscow time
+Bot showing Moscow Time (USD)
+[Invite link](https://discord.com/api/oauth2/authorize?client_id=930609087681560577&permissions=0&scope=bot)
+
 
 Feel free to [tip some sats](https://donate.qsh.io)! :)
